@@ -1,0 +1,19 @@
+[2026-11-10 06:16:44] ===== Début du pipeline CI =====
+[2026-11-10 06:16:44] Dépôt : https://github.com/AminaKabache/tp-bach.git
+[2026-11-10 06:16:44] Clonage du dépôt...
+Cloning into 'ci-repo'...
+warning: You appear to have cloned an empty repository.
+[2026-11-10 06:16:44] Clonage terminé avec succès.
+[2026-11-10 06:16:44] Exécution des tests...
+[2026-11-10 06:16:44] Tests simulés : OK
+[2026-11-10 06:16:44] ===== Pipeline CI terminé avec succès =====
+[2026-11-10 06:26:22] ===== Début du pipeline CI =====
+[2026-11-10 06:26:22] Dépôt : https://github.com/AminaKabache/tp-bach.git
+[2026-11-10 06:26:22] Dépôt déjà présent. Mise à jour...
+Your configuration specifies to merge with the ref 'refs/heads/main'
+from the remote, but no such ref was fetched.
+[2026-11-10 10:30:06] ===== Début du pipeline CI =====
+[2026-11-10 10:30:06] Dépôt : https://github.com/AminaKabache/tp-bach.git
+[2026-11-10 10:30:06] Dépôt déjà présent. Mise à jour...
+Your configuration specifies to merge with the ref 'refs/heads/main'
+from the remote, but no such ref was fetched.
